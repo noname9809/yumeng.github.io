@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : ""en-US""
-title                    : "Yumeng Zhang / Blog"
+title                    : "Yumeng Zhang"
 title_separator          : "-"
 name                     : &name "Yumeng Zhang"
 description              : &description "Cheminformatics enthusiast"
