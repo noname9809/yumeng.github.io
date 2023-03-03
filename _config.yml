@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yumeng Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Cheminformatics enthusiast"
   location         : "Uppsala, Sweden"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "noname19980927@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yumeng-zhang-a28b8519a/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
